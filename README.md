@@ -31,6 +31,6 @@ I manage many security and web development tools, frameworks and technologies. I
 ### 📺 Socials and Contact Me
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-contactangelograniello@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+      <a href="contactangelograniello@gmail.com">
+         <img alt="GMAIL CONTA" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-contactangelograniello@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
    </p>
