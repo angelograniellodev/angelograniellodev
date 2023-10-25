@@ -35,4 +35,6 @@ I manage many security and web development tools, frameworks and technologies. I
          <img alt="GMAIL CONTACT" title="contact me in gmail" src="https://custom-icon-badges.demolab.com/badge/-contactangelograniello@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
          <a href="discord">
          <img alt="MY DISCORD" title="discord community" src="https://custom-icon-badges.demolab.com/badge/-discord-purple?style=for-the-badge&logo=mention&logoColor=white"/></a>
+         <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=youtube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    </p>
