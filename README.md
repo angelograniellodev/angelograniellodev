@@ -2,7 +2,7 @@
 
 **`ATTENTION: SOMETIMES I KNOW A LOT BUT SOMETIMES I ALSO DON'T KNOW S***.`**
 
-Hello dear internet friend, welcome to my personal GITHUB where you will find the best repository or the worst. **I'm passionate about cybersecurity and software development, I also like to share and teach my knowledge on digital platforms.
+Hello dear internet friend, welcome to my personal GITHUB where you will find the best repository or the worst. `**I'm passionate about cybersecurity and software development, I also like to share and teach my knowledge on digital platforms.`**
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
