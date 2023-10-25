@@ -31,6 +31,8 @@ I manage many security and web development tools, frameworks and technologies. I
 ### 📺 Socials and Contact Me
 
    <p align="left">
-      <a href="contactangelograniello@gmail.com">
-         <img alt="GMAIL CONTA" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-contactangelograniello@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+      <a href="www.gmail.com">
+         <img alt="GMAIL CONTACT" title="contact me in gmail" src="https://custom-icon-badges.demolab.com/badge/-contactangelograniello@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+         <a href="discord">
+         <img alt="MY DISCORD" title="discord community" src="https://custom-icon-badges.demolab.com/badge/-discord-purple?style=for-the-badge&logo=mention&logoColor=white"/></a>
    </p>
